@@ -1,0 +1,6 @@
+http://forta.hit.bg/	index
+http://forta.hit.bg/_index.html	_index
+http://forta.hit.bg/uspehi.html	uspehi
+http://forta.hit.bg/istoria.html	istoria
+http://forta.hit.bg/kontakt.html	kontakt
+http://forta.hit.bg/snimki.html	snimki

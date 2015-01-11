@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="СК &quot;ФОРТА&quot; WebPage - Intro" title="СК &quot;ФОРТА&quot; WebPage - Intro">
+<page file="_index.html" text="" title="«Официалната страница на Киокушин карате клуб &quot;ФОРТА&quot; - София»">
+<page file="uspehi.html" text="" title="Успехи на съзтезателите от клуб &quot;ФОРТА&quot; . . ."/>
+<page file="istoria.html" text="" title="История на клуб &quot;ФОРТА&quot; . . ."/>
+<page file="kontakt.html" text="" title="Как да се свържете с нас и да започнете тренировки . . ."/>
+<page file="snimki.html" text="" title="Снимки от тренировките . . ."/>
+</page>
+</page>
+</site>
